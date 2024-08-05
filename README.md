@@ -5,16 +5,16 @@
 ## Решения заданий
 
 ### Задание 1
-![Задание 1](https://github.com/user-attachments/assets/eb247d1f-98d3-43eb-8f81-a253de8e5b28)
+![1](https://github.com/user-attachments/assets/f634cd57-3dfe-4c17-a2fe-6c63e322d458)
 ### Задание 2
-![2](https://github.com/user-attachments/assets/7b07a32f-0531-4c83-9ca0-3e963d2e7b5b)
-![3](https://github.com/user-attachments/assets/2894cd84-4e05-4fda-b5ab-ff1589cdfc9d)
+![2](https://github.com/user-attachments/assets/1033701c-c498-43a3-bcc0-8aad9552763d)
 ### Задание 3
-![4](https://github.com/user-attachments/assets/d3b22421-feef-48c1-8706-250333ba39c5)
-![5](https://github.com/user-attachments/assets/61dede5c-4bc9-4f6e-b8f6-f561ea971d91)
+![3](https://github.com/user-attachments/assets/80cae6cd-b112-4054-9dd1-df06842e1700)
+![4](https://github.com/user-attachments/assets/2f9fa108-b20d-4780-a684-4980e403c8ac)
 ### Задание 4
-![6](https://github.com/user-attachments/assets/ab15a82a-b48c-4b3e-911e-6dbb28d330ad)
+![5](https://github.com/user-attachments/assets/2a0735e6-0aae-457e-b2fc-7b0acece38e7)
 ### Задание 5
+![6](https://github.com/user-attachments/assets/e632bf29-712b-416c-9beb-418c1df1df37)
 
 
 
