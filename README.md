@@ -5,16 +5,14 @@
 ## Решения заданий
 
 ### Задание 1
-![1](https://github.com/user-attachments/assets/f634cd57-3dfe-4c17-a2fe-6c63e322d458)
+![1](https://github.com/user-attachments/assets/55aeedc6-0166-4960-86c9-b14a6805d4cd)
 ### Задание 2
-![2](https://github.com/user-attachments/assets/1033701c-c498-43a3-bcc0-8aad9552763d)
+![2](https://github.com/user-attachments/assets/4eb547e2-3ada-42e8-975a-eb70f56ec6be)
 ### Задание 3
-![3](https://github.com/user-attachments/assets/80cae6cd-b112-4054-9dd1-df06842e1700)
-![4](https://github.com/user-attachments/assets/2f9fa108-b20d-4780-a684-4980e403c8ac)
+![3](https://github.com/user-attachments/assets/da9dcdfc-e894-4ec2-8a92-bb8bc59eebbe)
 ### Задание 4
-![5](https://github.com/user-attachments/assets/2a0735e6-0aae-457e-b2fc-7b0acece38e7)
-### Задание 5
-![6](https://github.com/user-attachments/assets/e632bf29-712b-416c-9beb-418c1df1df37)
+![4](https://github.com/user-attachments/assets/5db9c0e0-3474-438e-bb86-db0353b46e34)
+
 
 
 
